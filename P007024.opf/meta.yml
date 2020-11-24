@@ -3,5 +3,26 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1016296
   title: སྤྱི་འདུལ་རྟ་དབུ་དམར་ཆུང
-  volume: ''
+  volume:
+    b94e8844757846689cd99e00f866dc89:
+      image_group_id: I00JW501359
+      title: Volume 1 of spyi 'dul rta dbu dmar chung spyi 'dul dam rgya mtsho'i rgyud
+        las yan gsan rta dbu dmar chun gi sgrub pa las tshogs dan bcas pa'i skor propitiatory
+        teachings of bon
+      volume_number: 1
+      total_pages: 592
+    7b6cfc2707e64acfabdc655ccbdc9f23:
+      image_group_id: I00JW501360
+      title: Volume 2 of spyi 'dul rta dbu dmar chung spyi 'dul dam rgya mtsho'i rgyud
+        las yan gsan rta dbu dmar chun gi sgrub pa las tshogs dan bcas pa'i skor propitiatory
+        teachings of bon
+      volume_number: 2
+      total_pages: 578
   author: ''
+ebook_metadata:
+  title: སྤྱི་འདུལ་རྟ་དབུ་དམར་ཆུང
+  author: ''
+  sku: P007024
+  cover: cover.jpg
+  layers:
+  - pagination
