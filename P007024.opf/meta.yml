@@ -1,9 +1,10 @@
-id: opecha:P007024
+id: P007024
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1016296
   title: སྤྱི་འདུལ་རྟ་དབུ་དམར་ཆུང
-  volume:
+  author: ''
+  volumes:
     b94e8844757846689cd99e00f866dc89:
       image_group_id: I00JW501359
       title: Volume 1 of spyi 'dul rta dbu dmar chung spyi 'dul dam rgya mtsho'i rgyud
@@ -11,6 +12,7 @@ source_metadata:
         teachings of bon
       volume_number: 1
       total_pages: 592
+      base_file: v001.txt
     7b6cfc2707e64acfabdc655ccbdc9f23:
       image_group_id: I00JW501360
       title: Volume 2 of spyi 'dul rta dbu dmar chung spyi 'dul dam rgya mtsho'i rgyud
@@ -18,7 +20,7 @@ source_metadata:
         teachings of bon
       volume_number: 2
       total_pages: 578
-  author: ''
+      base_file: v002.txt
 ebook_metadata:
   title: སྤྱི་འདུལ་རྟ་དབུ་དམར་ཆུང
   author: ''
